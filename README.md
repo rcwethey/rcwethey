@@ -1,7 +1,4 @@
 ### Hi there, I'm Ryan 👋
-7
-[![Website](https://img.shields.io/website?label=rcwethey.vercel.app&style=for-the-badge&url=https%3A%2F%2Frcwethey.vercel.app)](https://rcwethey.vercel.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=WetheyRyan)
 
 ## I'm a Life Long Learner, Developer, Space-Enthusiast, and Environmentalist!!
 
