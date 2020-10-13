@@ -1,6 +1,6 @@
-### Hi there, I'm Ryan 👋
+# Hi there, I'm Ryan 👋
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/WetheyRyan?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Life Long Learner, Developer, Space-Enthusiast, and Environmentalist!!
 
