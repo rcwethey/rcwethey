@@ -1,5 +1,8 @@
 ### Hi there, I'm Ryan 👋
 
+<br />
+<br />
+
 ## I'm a Life Long Learner, Developer, Space-Enthusiast, and Environmentalist!!
 
 - 🌱  I’m currently learning the MERN stack in depth!
