@@ -41,7 +41,7 @@
 
 ## Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rcwethey)](https://github.com/rcwethey/github-readme-stats&count_private=true&hide=statrs,contribs)
+[![Anurag's github stats](https://github.com/rcwethey/github-readme-stats&count_private=true&hide=stars,contribs)](https://github.com/rcwethey/github-readme-stats&count_private=true&hide=stars,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcwethey&layout=compact)](https://github.com/rcwethey/github-readme-stats)
 
