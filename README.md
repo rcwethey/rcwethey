@@ -1,6 +1,7 @@
 ### Hi there, I'm Ryan 👋
 
 
+
 ## I'm a Life Long Learner, Developer, Space-Enthusiast, and Environmentalist!!
 
 - 🌱  I’m currently learning the MERN stack in depth!
@@ -34,11 +35,13 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br />
 <br />
 
+## Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rcwethey)](https://github.com/rcwethey/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rcwethey)](https://github.com/rcwethey/github-readme-stats&count_private=true&hide=statrs,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcwethey&layout=compact)](https://github.com/rcwethey/github-readme-stats)
 
