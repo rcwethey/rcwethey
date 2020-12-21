@@ -41,9 +41,9 @@
 
 ## Github Stats
 
-![Anurag's github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&hide=stars,contribs)
+![Ryan's github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&hide=stars,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcwethey&layout=compact)
+![Top Langs](https://github-readme-stats-gilt-ten.vercel.app/api/top-langs/?username=rcwethey&layout=compact)
 
 ---
 
