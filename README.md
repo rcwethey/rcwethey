@@ -41,7 +41,9 @@
 
 ## Github Stats
 
-![Ryan's github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&hide=stars,contribs&hide_border=true&count_private=true)
+![Ryan's github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&hide=stars,contribs&hide_border=true&count_private=true&theme=react)
+
+![Ryans's wakatime stats](https://github-readme-stats-gilt-ten.vercel.app/api/wakatime?username=rcwethey&theme=nord)]
 
 ![Top Langs](https://github-readme-stats-gilt-ten.vercel.app/api/top-langs/?username=rcwethey&layout=compact)
 
