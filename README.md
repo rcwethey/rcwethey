@@ -44,8 +44,6 @@
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcwethey&theme=react&hide_border=true)
 
----
-
 [website]: https://rcwethey.vercel.app
 [twitter]: https://twitter.com/WetheyRyan
 [instagram]: https://instagram.com/r_wethey
