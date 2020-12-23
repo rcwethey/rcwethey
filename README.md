@@ -16,7 +16,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
+</br>
 
 ### Languages and Tools:
 
@@ -41,9 +41,8 @@
 ## Github Stats
 
 ![Ryan's github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&hide=stars,contribs&hide_border=true&count_private=true&theme=react)
-
 ![Top Langs](https://github-readme-stats-gilt-ten.vercel.app/api/top-langs/?username=rcwethey&layout=compact)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcwethey)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
