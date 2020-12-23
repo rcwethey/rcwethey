@@ -39,7 +39,7 @@
 
 ## Github Stats
 
-![Github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&hide=stars,contribs&hide_border=true&count_private=true&theme=react&hide_icons=false)
+![Github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&hide=stars,contribs&hide_border=true&count_private=true&theme=react&show_icons=true)
 ![Top Langs](https://github-readme-stats-gilt-ten.vercel.app/api/top-langs/?username=rcwethey&layout=compact&theme=react&hide_border=true)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcwethey&theme=react&hide_border=true)
