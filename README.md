@@ -31,8 +31,9 @@
 <img align="left" alt="Type GraphQL" width="30px" src="https://raw.githubusercontent.com/MichalLytek/typegraphql-nestjs/master/typegraphql-logo.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="30px" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" />
-<img align="left" alt="Sequelize" width="30px" src="https://milinaudara.files.wordpress.com/2014/05/logo.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" />
+<img align="left" alt="Sequelize" width="30px" src="https://milinaudara.files.wordpress.com/2014/05/logo.png" />
+<img align="left" alt="TypeORM" width="30px" src="https://cdn2.hubspot.net/hub/2383597/hubfs/typeorm.png?width=600" />
 <img align="left" alt="Git" width="30px" src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/git-icon.png?itok=w7zB9vuE" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
