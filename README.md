@@ -32,7 +32,7 @@
 <img align="left" alt="MySQL" width="30px" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" />
 <img align="left" alt="MySQL" width="30px" src="https://milinaudara.files.wordpress.com/2014/05/logo.png" />
 
-<img align="left" alt="MySQL" width="30px" src="https://milinaudara.files.wordpress.com/2014/05/logo.png" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" />
 
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/MichalLytek/typegraphql-nestjs/master/typegraphql-logo.png" />
