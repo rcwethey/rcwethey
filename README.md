@@ -46,8 +46,6 @@
 ![Github stats](https://github-readme-stats-gilt-ten.vercel.app/api?username=rcwethey&show_icons=true&hide=stars,contribs&hide_border=true&count_private=true&theme=react&hide_icons=false)
 ![Top Langs](https://github-readme-stats-gilt-ten.vercel.app/api/top-langs/?username=rcwethey&layout=compact&theme=react&hide_border=true)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rcwethey&theme=react&hide_border=true)
-
 [website]: https://rcwethey.vercel.app
 [twitter]: https://twitter.com/WetheyRyan
 [instagram]: https://instagram.com/r_wethey
