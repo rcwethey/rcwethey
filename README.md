@@ -4,7 +4,7 @@
 
 ## I'm a Life Long Learner, Developer, Space-Enthusiast, and Environmentalist!!
 
-- 🌱  I’m currently learning the MERN stack in depth anf Typescript!
+- 🌱  I’m currently learning the MERN stack in depth and Typescript!
 - 👯  I’m looking to collaborate with other content creators
 - 🥅  2020 Goals: Land my 1st full-time developer role!
 - ⚡  Fun fact: I love to try new IPA's, go to the gym, and soon - snowboard! 
