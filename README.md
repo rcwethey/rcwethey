@@ -6,7 +6,7 @@
 
 - 🌱  I’m currently learning the MERN stack in depth and Typescript!
 - 👯  I’m looking to collaborate with other content creators
-- 🥅  2020 Goals: Land my 1st full-time developer role!
+- 🥅  2021 Goals: Land my 1st full-time developer role!
 - ⚡  Fun fact: I love to try new IPA's, go to the gym, and soon - snowboard! 
 
 ### Connect with me:
