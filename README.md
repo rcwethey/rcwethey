@@ -4,9 +4,9 @@
 
 ## I'm a Life Long Learner, Developer, Space-Enthusiast, and Environmentalist!!
 
-- 🌱  I’m currently learning the MERN stack more in depth with TypeGraphQL and Typescript!
+- 🌱  I’m currently learning DS and Algorithms in the most amount of depth possible!
 - 👯  I’m looking to collaborate with other content creators
-- 🥅  2021 Goals: Land my 1st full-time developer role!
+- 🥅  2022 Goals: Transfer within Amazon to an SDE role!
 - ⚡  Fun fact: I love to try new IPA's, go to the gym, and soon - snowboard! 
 
 ### Connect with me:
