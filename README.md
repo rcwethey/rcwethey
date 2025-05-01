@@ -6,7 +6,6 @@
 
 - 🌱  I’m currently learning DS and Algorithms in the most amount of depth possible!
 - 👯  I’m looking to collaborate with other content creators
-- 🥅  2022 Goals: Transition within Amazon to an SDE role!
 - ⚡  Fun fact: I love to try new IPA's, go to the gym, and soon - snowboard! 
 
 ### Connect with me:
